@@ -1,0 +1,9 @@
+{
+    "W_nodes": "data/data/116_num/20-03-25_116/w_116_flow.csv",
+    "V_nodes": "data/data/116_num/20-03-25_116/V_116_flow.csv",
+    "V_confirmed": "data/data/116_num/CA_have_data.csv",
+    "V_cured": "data/data/116_num/CA_cute_data.csv",
+    "V_suspected": "data/data/116_num/CA_add_data.csv",
+    "V_dead": "data/data/116_num/CA_death_data.csv"
+
+}
